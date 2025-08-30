@@ -1,0 +1,9 @@
+[submodule "Year-1"]
+	path = Year-1
+	url = git@github.com:whosubashsubedii/Year-1.git
+[submodule "Year-2"]
+	path = Year-2
+	url = git@github.com:whosubashsubedii/Year-2.git
+[submodule "Year-3"]
+	path = Year-3
+	url = git@github.com:whosubashsubedii/Year-3.git
