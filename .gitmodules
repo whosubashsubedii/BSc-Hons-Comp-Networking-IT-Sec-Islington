@@ -14,3 +14,7 @@
     path = Year-1/2nd Semistar/Cyber Security Fundamentals/CSF Coursework/Cybersecurity-Fundamentals-Coursework
     url = git@github.com:whosubashsubedii/Cybersecurity-Fundamentals-Coursework.git
 
+[submodule "Fundamentals-of-Computing-Coursework"]
+    path = Year-1/2nd Semistar/Fundamentals of Computing/Fundamentals of Computing CourseWork/Fundamentals-of-Computing-Coursework
+    url = git@github.com:whosubashsubedii/Fundamentals-of-Computing-Coursework.git
+
