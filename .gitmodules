@@ -18,3 +18,7 @@
     path = Year-1/2nd Semistar/Fundamentals of Computing/Fundamentals of Computing CourseWork/Fundamentals-of-Computing-Coursework
     url = git@github.com:whosubashsubedii/Fundamentals-of-Computing-Coursework.git
 
+[submodule "Java-Programming-Coursework"]
+    path = Year-1/2nd Semistar/Programming/Programming CourseWork/Java-Programming-Coursework
+    url = git@github.com:whosubashsubedii/Java-Programming-Coursework.git
+
