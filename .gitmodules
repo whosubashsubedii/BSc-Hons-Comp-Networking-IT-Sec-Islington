@@ -1,9 +1,16 @@
 [submodule "Year-1"]
 	path = Year-1
 	url = git@github.com:whosubashsubedii/Year-1.git
+
 [submodule "Year-2"]
 	path = Year-2
 	url = git@github.com:whosubashsubedii/Year-2.git
+
 [submodule "Year-3"]
 	path = Year-3
 	url = git@github.com:whosubashsubedii/Year-3.git
+
+[submodule "Cybersecurity-Fundamentals-Coursework"]
+    path = Year-1/2nd Semistar/Cyber Security Fundamentals/CSF Coursework/Cybersecurity-Fundamentals-Coursework
+    url = git@github.com:whosubashsubedii/Cybersecurity-Fundamentals-Coursework.git
+
